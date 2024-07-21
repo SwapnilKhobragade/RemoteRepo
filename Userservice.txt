@@ -5,3 +5,5 @@ Adding Service data.
 Create an avatar for user.
 I'm new user
 I'm ready to login.
+
+Creating new user for other work.
